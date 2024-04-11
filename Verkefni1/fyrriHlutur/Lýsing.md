@@ -1,3 +1,0 @@
-- [x] Búa til github Repository með nafn "ROBO2RG05"
-- [x] Gera Eirík Collaborator og hafa Private.
-- [x] Búa Til Möppur fyrir öll verkefninn. 
